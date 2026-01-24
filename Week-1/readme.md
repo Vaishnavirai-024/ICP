@@ -21,14 +21,13 @@ Each problem includes a **direct link to my accepted submission on LeetCode.**
    🔗 Submission Link: https://leetcode.com/problems/3sum/submissions/1893960873/
 
 4. **Problem 4: _[Count prime-204]_**  
-   🔗 Submission Link: https://leetcode.com/submissions/detail/XXXXXXXX/
-
+   🔗 Submission Link: Not done
 ---
 
 ## 🔴 Hard Problems (2)
 
 5. **Problem 5: _[First Missing Positive-41]_**  
-   🔗 Submission Link: https://leetcode.com/submissions/detail/XXXXXXXX/
+   🔗 Submission Link: Not done
 
 6. **Problem 6: _[Median of Two Sorted Arrays-4]_**  
    🔗 Submission Link: https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/1835941178/
